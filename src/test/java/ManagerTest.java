@@ -80,5 +80,5 @@ public class ManagerTest {
         assertEquals(300000, director.getBudget(), 0.01);
     }
 
-    
+
 }

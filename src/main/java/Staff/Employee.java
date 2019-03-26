@@ -21,6 +21,7 @@ public abstract class Employee {
     }
 
     public Integer raiseSalary(){
+
         return this.salary * 2;
     }
 
